@@ -3,6 +3,8 @@ cw-kata-littlesecret
 
 The source code of [_Everyone has his little secrets_](http://www.codewars.com/kata/546d1328bed2e1e07a000f89) codewars Java Kata
 
+_Obviously you wouldn't browse this repo before solving the kata on codewars._
+
 The working solution with tests is in the 'standard' layout.
 
 The initial solution is in a separate folder : `src/initialsolution`
